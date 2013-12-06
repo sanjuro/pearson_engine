@@ -1,0 +1,91 @@
+I, [2013-12-05T14:28:50.298535 #19175]  INFO -- : Find all Number translations
+I, [2013-12-05T15:15:20.704098 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:15:20.705858 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:15:40.791698 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:15:40.792372 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:16:06.885746 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:16:06.886776 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:16:18.781155 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:16:18.782309 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:17:31.115486 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:17:31.116098 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:17:35.613977 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:17:35.614655 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:18:34.508376 #19584]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:18:34.509019 #19584]  INFO -- : Found number for matching request: 1
+I, [2013-12-05T15:19:26.030190 #19584]  INFO -- : Find a Number with value: 100
+I, [2013-12-05T15:19:26.030975 #19584]  INFO -- : Did not find number for matching request: 100
+I, [2013-12-05T15:19:26.031216 #19584]  INFO -- : Translated Number: one hundred
+I, [2013-12-05T15:19:39.539013 #19584]  INFO -- : Find a Number with value: 100
+I, [2013-12-05T15:19:39.539724 #19584]  INFO -- : Found number for matching request: 100
+I, [2013-12-05T15:19:42.253126 #19584]  INFO -- : Find a Number with value: 100
+I, [2013-12-05T15:19:42.253839 #19584]  INFO -- : Found number for matching request: 100
+I, [2013-12-05T15:19:44.733111 #19584]  INFO -- : Find a Number with value: 20000
+I, [2013-12-05T15:19:44.733888 #19584]  INFO -- : Did not find number for matching request: 20000
+I, [2013-12-05T15:19:44.734002 #19584]  INFO -- : Translated Number: twenty thousand
+I, [2013-12-05T15:19:56.795589 #19584]  INFO -- : Find a Number with value: 0
+I, [2013-12-05T15:19:56.796202 #19584]  INFO -- : Did not find number for matching request: 0
+I, [2013-12-05T15:19:56.796297 #19584]  INFO -- : Translated Number: zero
+I, [2013-12-05T15:20:03.147231 #19584]  INFO -- : Find a Number with value: 0
+I, [2013-12-05T15:20:03.148215 #19584]  INFO -- : Found number for matching request: 0
+I, [2013-12-05T15:20:06.079655 #19584]  INFO -- : Find a Number with value: 0
+I, [2013-12-05T15:20:06.080316 #19584]  INFO -- : Found number for matching request: 0
+I, [2013-12-05T15:20:07.986621 #19584]  INFO -- : Find a Number with value: 0
+I, [2013-12-05T15:20:07.987463 #19584]  INFO -- : Found number for matching request: 0
+I, [2013-12-05T15:21:20.986965 #19584]  INFO -- : Find a Number with value: 0
+I, [2013-12-05T15:21:20.987696 #19584]  INFO -- : Found number for matching request: 0
+I, [2013-12-05T15:21:57.735232 #19584]  INFO -- : Find a Number with value: 300
+I, [2013-12-05T15:21:57.735921 #19584]  INFO -- : Did not find number for matching request: 300
+I, [2013-12-05T15:21:57.736023 #19584]  INFO -- : Translated Number: three hundred
+I, [2013-12-05T15:22:39.206884 #19584]  INFO -- : Find a Number with value: 300
+I, [2013-12-05T15:22:39.207558 #19584]  INFO -- : Found number for matching request: 300
+I, [2013-12-05T15:22:45.036579 #19584]  INFO -- : Find a Number with value: 232424
+I, [2013-12-05T15:22:45.037398 #19584]  INFO -- : Did not find number for matching request: 232424
+I, [2013-12-05T15:22:45.037506 #19584]  INFO -- : Translated Number: two hundred thirty-two thousand four hundred and twenty-four
+I, [2013-12-05T15:25:17.425091 #19587]  INFO -- : Find a Number with value: 232424
+I, [2013-12-05T15:25:17.425913 #19587]  INFO -- : Found number for matching request: 232424
+I, [2013-12-05T15:25:21.221014 #19587]  INFO -- : Find a Number with value: 22324
+I, [2013-12-05T15:25:21.221797 #19587]  INFO -- : Did not find number for matching request: 22324
+I, [2013-12-05T15:25:21.221935 #19587]  INFO -- : Translated Number: twenty-two thousand three hundred and twenty-four
+I, [2013-12-05T15:26:00.253634 #19590]  INFO -- : Find a Number with value: 22324
+I, [2013-12-05T15:26:00.254438 #19590]  INFO -- : Found number for matching request: 22324
+I, [2013-12-05T15:26:02.445938 #19590]  INFO -- : Find a Number with value: 12324
+I, [2013-12-05T15:26:02.446535 #19590]  INFO -- : Did not find number for matching request: 12324
+I, [2013-12-05T15:26:02.446620 #19590]  INFO -- : Translated Number: twelve thousand three hundred and twenty-four
+I, [2013-12-05T15:26:05.363066 #19590]  INFO -- : Find a Number with value: 1242552424
+I, [2013-12-05T15:26:05.363886 #19590]  INFO -- : Did not find number for matching request: 1242552424
+I, [2013-12-05T15:26:05.363995 #19590]  INFO -- : Translated Number: one milliard two hundred forty-two million five hundred fifty-two thousand four hundred and twenty-four
+I, [2013-12-05T15:28:03.598589 #19590]  INFO -- : Find a Number with value: 1000000
+I, [2013-12-05T15:28:03.599225 #19590]  INFO -- : Did not find number for matching request: 1000000
+I, [2013-12-05T15:28:03.599333 #19590]  INFO -- : Translated Number: one million
+I, [2013-12-05T15:28:46.609109 #19590]  INFO -- : Find a Number with value: 1000000
+I, [2013-12-05T15:28:46.609817 #19590]  INFO -- : Found number for matching request: 1000000
+I, [2013-12-05T15:28:47.880487 #19590]  INFO -- : Find a Number with value: 1000000
+I, [2013-12-05T15:28:47.881829 #19590]  INFO -- : Found number for matching request: 1000000
+I, [2013-12-05T15:28:49.757594 #19590]  INFO -- : Find a Number with value: 123
+I, [2013-12-05T15:28:49.758376 #19590]  INFO -- : Did not find number for matching request: 123
+I, [2013-12-05T15:28:49.758512 #19590]  INFO -- : Translated Number: one hundred and twenty-three
+I, [2013-12-05T15:28:59.290827 #19590]  INFO -- : Find a Number with value: 123
+I, [2013-12-05T15:28:59.291574 #19590]  INFO -- : Found number for matching request: 123
+I, [2013-12-05T15:29:01.913149 #19590]  INFO -- : Find a Number with value: 12323
+I, [2013-12-05T15:29:01.913910 #19590]  INFO -- : Did not find number for matching request: 12323
+I, [2013-12-05T15:29:01.914086 #19590]  INFO -- : Translated Number: twelve thousand three hundred and twenty-three
+I, [2013-12-05T15:29:06.312941 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:29:06.313579 #19590]  INFO -- : Did not find number for matching request: 1231242141243123
+I, [2013-12-05T15:29:06.313687 #19590]  INFO -- : Translated Number: one billiard two hundred thirty-one billion two hundred forty-two milliard one hundred forty-one million two hundred forty-three thousand one hundred and twenty-three
+I, [2013-12-05T15:29:51.117745 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:29:51.118330 #19590]  INFO -- : Found number for matching request: 1231242141243123
+I, [2013-12-05T15:31:06.743585 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:31:06.744251 #19590]  INFO -- : Found number for matching request: 1231242141243123
+I, [2013-12-05T15:33:04.834265 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:33:04.834961 #19590]  INFO -- : Found number for matching request: 1231242141243123
+I, [2013-12-05T15:33:23.716768 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:33:23.717581 #19590]  INFO -- : Found number for matching request: 1231242141243123
+I, [2013-12-05T15:33:52.735574 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:33:52.736395 #19590]  INFO -- : Found number for matching request: 1231242141243123
+I, [2013-12-05T15:34:02.898613 #19590]  INFO -- : Find a Number with value: 1231242141243123
+I, [2013-12-05T15:34:02.899269 #19590]  INFO -- : Found number for matching request: 1231242141243123
+I, [2013-12-05T15:35:37.515485 #19590]  INFO -- : Find a Number with value: 123
+I, [2013-12-05T15:35:37.516392 #19590]  INFO -- : Found number for matching request: 123
+I, [2013-12-05T15:35:52.775852 #19590]  INFO -- : Find a Number with value: 1
+I, [2013-12-05T15:35:52.776578 #19590]  INFO -- : Found number for matching request: 1

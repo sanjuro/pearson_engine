@@ -1,0 +1,26 @@
+production:
+ adapter: em_mysql2
+ encoding: utf8
+ database: vosto
+ pool: 5
+ username: root
+ password: 
+ host: 127.0.0.1
+
+test:
+ adapter: em_mysql2
+ encoding: utf8
+ database: vosto_test
+ pool: 5
+ username: root
+ password: 
+ host: 127.0.0.1
+
+development:
+ adapter: em_mysql2
+ encoding: utf8
+ database: vosto
+ pool: 5
+ username: root
+ password: 
+ host: 127.0.0.1
